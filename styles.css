@@ -204,7 +204,7 @@
 /* Hero Section CSS */
 .main {
     background-color: #ffffff;
-    /*background-image: url(/img/leibnizbg.jpg)*/
+    /*background-image: url(/Sincostan_BOIZ/img/leibnizbg.jpg)*/
 }
 
 .main__container {
@@ -219,7 +219,7 @@
     width: 100%;
     max-width: 1300px;
     padding: 0 525px;
-    background-image: url(/img/leibnizbg.jpg);
+    background-image: url(/Sincostan_BOIZ/img/leibnizbg.jpg);
     background-size: cover;
 }
 
@@ -388,26 +388,26 @@
     height: 450px;
     width: 250px;
     border-radius: 4px;
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/img/pic1.jpg');
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/Sincostan_BOIZ/img/pic1.jpg');
     background-size: cover;
     position: relative;
     color: #ffffff;
 }
 
 .services__card:nth-child(2) {
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/img/pic2.jpg');
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/Sincostan_BOIZ/img/pic2.jpg');
 }
 
 .services__card:nth-child(3) {
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/img/pic3.jpg');
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/Sincostan_BOIZ/img/pic3.jpg');
 }
 
 .services__card:nth-child(4) {
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/img/pic4.jpg');
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/Sincostan_BOIZ/img/pic4.jpg');
 }
 
 .services__card:nth-child(5) {
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/img/pic5.jpg');
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/Sincostan_BOIZ/img/pic5.jpg');
 }
 
 .services h2 {
